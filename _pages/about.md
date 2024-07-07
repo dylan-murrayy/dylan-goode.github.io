@@ -13,4 +13,4 @@ MSc Information Systems from University of Amsterdam. Focused on the practical a
 
 Passionate about the product development process, leveraging technology to solve real-world problems.
 
-![Agentic Design Patterns: Multi-Agent Collaboration](/images/agentic.png)
+![Agentic Design Patterns: Multi-Agent Collaboration](images/agentic.png)
