@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-AI Engineer -- MSc Information Systems, University of Amsterdam
+AI Product Developer -- MSc Information Systems, University of Amsterdam
 
-With a robust background in economics, statistics, and information systems, I specialize in AI-driven innovations, blending data analysis with user-centric design to deliver impactful technology solutions.
+MSc Information Systems from University of Amsterdam. Focused on the practical applications of AI in multilingual contexts and multi-agent systems. Currently diving into advanced AI research and development projects.
 
-At the forefront of AI research, I am deeply involved in projects like the development of multilingual prompting methods for language models and the design of intuitive AI user interfaces. 
+Passionate about the product development process, leveraging technology to solve real-world problems.
