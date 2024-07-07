@@ -16,7 +16,7 @@ main:
  #   url: /teaching/    
         
   - title: "Blog Posts"
-    url: /year-archive/
-    
+    #url: /year-archive/
+    url: "https://medium.com/@dylanamadan"
  # - title: "Guide"
  #   url: /markdown/
