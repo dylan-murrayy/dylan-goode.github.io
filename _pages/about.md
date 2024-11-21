@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Hi there!"
+title: "Dylan Goode"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-AI Product Developer -- MSc Information Systems, University of Amsterdam
+AI Product Developer -- IBM
 
-MSc Information Systems from University of Amsterdam. Focused on the practical applications of AI in multilingual contexts and multi-agent systems. Currently diving into advanced AI research and development projects.
+MSc Information Systems from University of Amsterdam.  Focused on the practical applications of AI in multilingual contexts and multi-agent systems. Currently diving into advanced AI research and development projects.
 
 Passionate about the product development process, leveraging technology to solve real-world problems.
 
