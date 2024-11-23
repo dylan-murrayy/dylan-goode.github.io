@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-AI Product Developer -- IBM
 
-MSc Information Systems from University of Amsterdam.  Focused on the practical applications of AI in multilingual contexts and multi-agent systems. Currently diving into advanced AI research and development projects.
+I look to work at the intersection of AI research and product development, currently with IBM. With an MSc in Information Systems from the University of Amsterdam, my academic focus explored the challenges and possibilities of multilingual AI systems.
 
-Passionate about the product development process, leveraging technology to solve real-world problems.
+My approach is grounded in applying advanced AI to solve meaningful, real-world problems—always with an emphasis on collaboration and simplicity. Outside of work, I’m constantly refining my understanding of the evolving AI landscape and its practical impact on how we live and work. In particular, I am very interested in AI product evaluations (Evals), multi-agent design patterns, and scalable AI deployment.
 
+Example of Multi-Agent Collaboration:
 ![Agentic Design Patterns: Multi-Agent Collaboration](images/agentic.png)
