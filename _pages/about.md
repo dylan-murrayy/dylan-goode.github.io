@@ -8,9 +8,16 @@ redirect_from:
 ---
 
 
-I look to work at the intersection of AI research and product development, currently with IBM. With an MSc in Information Systems from the University of Amsterdam, my academic focus explored the challenges and possibilities of multilingual AI systems.
+I am a Technical Product Manager at IBM, working on AI product development and cloud-native developer tooling. I enjoy bringing structure to ambiguity and helping teams align on what to build and how to deliver it.
 
-My approach is grounded in applying advanced AI to solve meaningful, real-world problems—always with an emphasis on collaboration and simplicity. Outside of work, I’m constantly refining my understanding of the evolving AI landscape and its practical impact on how we live and work. In particular, I am very interested in AI product evaluations (Evals), multi-agent design patterns, and scalable AI deployment.
+I hold an MSc in Information Systems from the University of Amsterdam and a BSc in Economics from University College Dublin.
+
+My recent work has focused on agentic AI infrastructure, where I've helped build custom MCP servers for async messaging, and data-driven strategies to improve technical adoption. I'm also interested in the practical applications of MQTT for IoT use cases.
+
+### Projects
+
+**[El Palabrero](https://github.com/dylan-murrayy/El_Palabrero)**
+A personal project exploring AI-driven language learning tools.
 
 Example of Multi-Agent Collaboration:
 ![Agentic Design Patterns: Multi-Agent Collaboration](images/agentic.png)
