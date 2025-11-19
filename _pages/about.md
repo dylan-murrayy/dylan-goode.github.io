@@ -7,11 +7,17 @@ redirect_from:
   - /about.html
 ---
 
+I am a **Technical Product Manager** at **IBM**, working on AI product development and cloud-native developer tools.
 
-I am a Technical Product Manager at IBM, working on AI product development and cloud-native developer tooling. I enjoy bringing structure to ambiguity and helping teams align on what to build and how to deliver it.
+### AI Product Management
 
-I hold an MSc in Information Systems from the University of Amsterdam and a BSc in Economics from University College Dublin.
+To me, being an AI PM is about maintaining a rigorous information diet and staying agile. It’s less about abstract curiosity and more about anticipating how weekly advancements might impact the product. My focus is on making quick, informed decisions to mitigate risk and seize opportunities, building at the limit of what is possible.
 
-My recent work has focused on agentic AI infrastructure, where I've helped build custom MCP servers for async messaging, and data-driven strategies to improve technical adoption. I'm also interested in the practical applications of MQTT for IoT use cases.
+### What I'm Working On
 
+- **Agentic AI Infrastructure**: Working on async messaging to enable the agentic AI economy.
+- **Industrial IoT**: Thinking about how intelligence can affect industrial processes through IIoT.
 
+### Explore
+
+- **[Projects](/portfolio/)**: Check out **El Palabrero**, my AI language learning tool.
